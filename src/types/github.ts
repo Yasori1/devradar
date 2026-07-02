@@ -22,7 +22,7 @@ export interface GithubRepo {
     html_url:string;
     description:string | null;
     stargazers_count:number;
-    launguage:string | null;
+    language:string | null;
     updated_at:string;
     forks_count:number;
 }
